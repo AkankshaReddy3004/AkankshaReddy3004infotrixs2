@@ -7,8 +7,8 @@ body {
     text-align: center;
 }
 
-.container{    
-    background-image: url('./quotes/pexels-matej-698324.jpg')!important;
+.container {    
+    background-image: url('./pexels-matej-698324.jpg') !important;
     background-size: contain;
 }
 
