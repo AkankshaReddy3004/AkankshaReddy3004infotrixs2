@@ -7,9 +7,9 @@ body {
     text-align: center;
 }
 
-.container {    
-    background-image: url('./quotes/pexels-matej-698324.jpg') !important;
-    background-size: contain;
+.container {
+    background-image: url('./ak.jpg') !important;
+    background-size: cover;
 }
 
 header {
